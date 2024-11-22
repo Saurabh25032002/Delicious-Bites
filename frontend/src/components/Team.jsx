@@ -7,9 +7,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+          Our team specializes in designing user-friendly and responsive restaurant websites, offering seamless features like online reservations, menu showcases, and secure order systems. We focus on delivering high-quality, efficient solutions tailored to enhance customer engagement.
           </p>
         </div>
         <div className="team_container">
